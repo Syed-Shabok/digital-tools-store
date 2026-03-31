@@ -13,15 +13,17 @@ function App() {
 
   return (
     <>
-      <Suspense
-        fallback={
-          <div className="w-full flex justify-center min-h-[50vh]">
-            <span className="loading loading-bars loading-xl"></span>
-          </div>
-        }
-      >
-        <Tools toolsPromise={toolsPromise} />
-      </Suspense>
+      <div className="container mx-auto  px-5 lg:px-10">
+        <Suspense
+          fallback={
+            <div className="w-full flex justify-center min-h-[50vh]">
+              <span className="loading loading-bars loading-xl"></span>
+            </div>
+          }
+        >
+          <Tools toolsPromise={toolsPromise} />
+        </Suspense>
+      </div>
     </>
   );
 }

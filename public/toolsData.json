@@ -4,7 +4,7 @@
     "name": "AI Writing Pro",
     "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
     "price": 29,
-    "period": "monthly",
+    "period": "Mo",
     "tag": "Best Seller",
     "tagType": "best-seller",
     "features": [
@@ -12,14 +12,14 @@
       "50+ writing templates",
       "Grammar checker"
     ],
-    "icon": "writing.png"
+    "icon": "https://i.ibb.co/hFZ9QCWD/writing-2327400-1.png"
   },
   {
     "id": 2,
     "name": "Design Master",
     "description": "Create stunning designs, logos, and social media posts with ease.",
     "price": 19,
-    "period": "monthly",
+    "period": "Mo",
     "tag": "Popular",
     "tagType": "popular",
     "features": [
@@ -27,14 +27,14 @@
       "Drag & drop editor",
       "Export in multiple formats"
     ],
-    "icon": "design-tool.png"
+    "icon": "https://i.ibb.co/Mk3cn0vp/design-tool.png"
   },
   {
     "id": 3,
     "name": "Social Boost",
     "description": "Manage and grow your social media accounts effortlessly.",
     "price": 15,
-    "period": "monthly",
+    "period": "Mo",
     "tag": "New",
     "tagType": "new",
     "features": [
@@ -42,7 +42,7 @@
       "Analytics dashboard",
       "Multi-platform support"
     ],
-    "icon": "social-media.png"
+    "icon": "https://i.ibb.co/GvWBN8r9/social-media.png"
   },
   {
     "id": 4,
@@ -57,25 +57,25 @@
       "Responsive templates",
       "SEO optimization"
     ],
-    "icon": "portfolio.png"
+    "icon": "https://i.ibb.co/k2fjmtxH/portfolio.png"
   },
   {
     "id": 5,
     "name": "TaskFlow Manager",
     "description": "Organize your workflow and boost productivity with smart task management.",
     "price": 9,
-    "period": "monthly",
+    "period": "Mo",
     "tag": "Best Seller",
     "tagType": "best-seller",
     "features": ["Task tracking", "Team collaboration", "Deadline reminders"],
-    "icon": "operation.png"
+    "icon": "https://i.ibb.co/xtZTrXgC/operation.png"
   },
   {
     "id": 6,
     "name": "PhotoPro Studio",
     "description": "Edit photos like a professional with powerful AI tools.",
     "price": 59,
-    "period": "yearly",
+    "period": "Yr",
     "tag": "Popular",
     "tagType": "popular",
     "features": [
@@ -83,18 +83,33 @@
       "Advanced filters",
       "High-resolution export"
     ],
-    "icon": "camera.png"
+    "icon": "https://i.ibb.co/KxRztVw4/camera.png"
+  },
+  {
+    "id": 9,
+    "name": "Video Editor AI",
+    "description": "Create and edit professional videos effortlessly with AI-powered tools and templates.",
+    "price": 25,
+    "period": "Mo",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Auto video editing",
+      "Subtitle generator",
+      "100+ video templates"
+    ],
+    "icon": "https://i.ibb.co/KxRztVw4/camera.png"
   },
   {
     "id": 7,
     "name": "Content Planner",
     "description": "Plan and organize your content strategy efficiently.",
     "price": 12,
-    "period": "monthly",
+    "period": "Mo",
     "tag": "New",
     "tagType": "new",
     "features": ["Content calendar", "Idea generator", "Team sharing"],
-    "icon": "writing.png"
+    "icon": "https://i.ibb.co/hFZ9QCWD/writing-2327400-1.png"
   },
   {
     "id": 8,
@@ -109,6 +124,6 @@
       "Color palette generator",
       "Brand guidelines export"
     ],
-    "icon": "design-tool.png"
+    "icon": "https://i.ibb.co/Mk3cn0vp/design-tool.png"
   }
 ]
