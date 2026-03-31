@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ],
+    "icon": "writing.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Master",
+    "description": "Create stunning designs, logos, and social media posts with ease.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "Drag & drop editor",
+      "Export in multiple formats"
+    ],
+    "icon": "design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Social Boost",
+    "description": "Manage and grow your social media accounts effortlessly.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Auto post scheduling",
+      "Analytics dashboard",
+      "Multi-platform support"
+    ],
+    "icon": "social-media.png"
+  },
+  {
+    "id": 4,
+    "name": "Portfolio Builder",
+    "description": "Build a professional portfolio website in minutes.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Custom domain support",
+      "Responsive templates",
+      "SEO optimization"
+    ],
+    "icon": "portfolio.png"
+  },
+  {
+    "id": 5,
+    "name": "TaskFlow Manager",
+    "description": "Organize your workflow and boost productivity with smart task management.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Task tracking", "Team collaboration", "Deadline reminders"],
+    "icon": "operation.png"
+  },
+  {
+    "id": 6,
+    "name": "PhotoPro Studio",
+    "description": "Edit photos like a professional with powerful AI tools.",
+    "price": 59,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "AI background remover",
+      "Advanced filters",
+      "High-resolution export"
+    ],
+    "icon": "camera.png"
+  },
+  {
+    "id": 7,
+    "name": "Content Planner",
+    "description": "Plan and organize your content strategy efficiently.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Content calendar", "Idea generator", "Team sharing"],
+    "icon": "writing.png"
+  },
+  {
+    "id": 8,
+    "name": "Brand Designer",
+    "description": "Build your brand identity with logos, colors, and typography tools.",
+    "price": 39,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Logo maker",
+      "Color palette generator",
+      "Brand guidelines export"
+    ],
+    "icon": "design-tool.png"
+  }
+]

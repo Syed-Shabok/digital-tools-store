@@ -1,0 +1,16 @@
+.dark-text {
+  color: #001931;
+}
+
+.light-text {
+  color: #627382;
+}
+
+.custom-btn {
+  background: linear-gradient(to right, #4f39f6, #9514fa);
+  color: #ffffff;
+}
+
+.custom-btn:hover {
+  box-shadow: 0 2px 2px rgba(149, 20, 250, 0.3);
+}
