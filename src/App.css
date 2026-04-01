@@ -23,3 +23,19 @@
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
   transform: translateY(-3px);
 }
+
+.gradient-text {
+  background: linear-gradient(to right, #4f39f6, #9514fa);
+  background-clip: text;
+  color: transparent;
+}
+
+a {
+  cursor: pointer;
+}
+
+a:hover {
+  background: linear-gradient(to right, #4f39f6, #9514fa);
+  background-clip: text;
+  color: transparent;
+}

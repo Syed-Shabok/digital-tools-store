@@ -1,6 +1,7 @@
 import { Suspense } from "react";
 import "./App.css";
 import Tools from "./components/tools/Tools";
+import Navbar from "./components/navbar/Navbar";
 
 const fetchToolsData = async () => {
   const res = await fetch("../public/toolsData.json");
@@ -13,6 +14,7 @@ function App() {
 
   return (
     <>
+      <Navbar />
       <div className="container mx-auto  px-5 lg:px-10">
         <Suspense
           fallback={
