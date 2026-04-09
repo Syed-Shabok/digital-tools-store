@@ -1,22 +1,16 @@
-# 🛒 A-6 Digital Tools Buying Website
+# 🛒 DigiTools - A Digital Tools Buying Website
 
 A modern and responsive web application where users can explore and purchase digital tools. The platform allows users to browse products, add them to a cart, and manage their selections with real-time updates and notifications.
 
 ---
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 
 <p align="left">
   <a href="https://digi-tools-website.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-success?style=for-the-badge" />
   </a>
 </p>
-
----
-
-## 📂 GitHub Repository
-
-🔗 https://github.com/your-username/your-repo-name
 
 ---
 
